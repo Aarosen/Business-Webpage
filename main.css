@@ -1,0 +1,42 @@
+.logo {
+	padding: 0px 0px 0px 0px;
+	height: 30px;
+    width: 30px;
+}
+
+.img {
+	display: block;
+  	width: 190%;
+  	height: 180px;
+	padding: 20px 10px 10px 10px;
+	float: center;
+	display: block;
+	margin-right: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.second-row {
+	margin-top: 80px;
+}
+
+.second-row, .third-row, .fourth-row {
+	padding: 0px 0 0px 0;
+}
+
+.col-md-4:hover .img {
+	opacity: 0.2;
+}
+
+.media-object {
+	height: 30px;
+	width: 30px;
+}
+
+.textl {
+	float: left;
+}
+
+.textr {
+	float: right;
+}
+
